@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/CODSOFT-PORTFOLIO/static/css/main.1294a67e.css",
+    "main.js": "/CODSOFT-PORTFOLIO/static/js/main.8891c2c7.js",
+    "static/media/picture_2.png": "/CODSOFT-PORTFOLIO/static/media/picture_2.abc07fb2f49c64500638.png",
+    "static/media/background-2.jpg": "/CODSOFT-PORTFOLIO/static/media/background-2.54136981f81244e4a177.jpg",
+    "static/media/food_waste_1.png": "/CODSOFT-PORTFOLIO/static/media/food_waste_1.09c1fd646cd0b86eea53.png",
+    "static/media/githubIcon.png": "/CODSOFT-PORTFOLIO/static/media/githubIcon.54e8ea650c2f90995e20.png",
+    "static/media/gmailIcon.png": "/CODSOFT-PORTFOLIO/static/media/gmailIcon.3bb4b76a56c6a735a1c3.png",
+    "static/media/linkedinIcon.png": "/CODSOFT-PORTFOLIO/static/media/linkedinIcon.f777b7eb47374360018c.png",
+    "static/media/resume.pdf": "/CODSOFT-PORTFOLIO/static/media/resume.396c5bf1e74bb150a964.pdf",
+    "static/media/portfolio_icon.png": "/CODSOFT-PORTFOLIO/static/media/portfolio_icon.0fedac13c862003b049c.png",
+    "index.html": "/CODSOFT-PORTFOLIO/index.html",
+    "main.1294a67e.css.map": "/CODSOFT-PORTFOLIO/static/css/main.1294a67e.css.map",
+    "main.8891c2c7.js.map": "/CODSOFT-PORTFOLIO/static/js/main.8891c2c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1294a67e.css",
+    "static/js/main.8891c2c7.js"
+  ]
+}
